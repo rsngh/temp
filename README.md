@@ -1,5 +1,3 @@
 <body>
 
-Hello
-
 </body>
